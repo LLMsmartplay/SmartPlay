@@ -1,6 +1,8 @@
 ## <span style="color:red">⚠️ STOP</span>
 
-<span style="color:red">This repo is for double-blind review ONLY and must not be forked or cited.</span>
+<span style="color:red">This repo is for double-blind review ONLY.</span>
+
+Although this repo has been tested to work as of Nov 13 2023. It will not receive any updates/bug-fixes, and must not be forked or cited.
 
 # SmartPlay
 
